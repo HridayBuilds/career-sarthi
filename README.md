@@ -91,21 +91,21 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
-│                              FRONTEND                                     │
-│                        React + Vite + TailwindCSS                        │
-│                           (Port: 5173)                                    │
+│                              FRONTEND                                   │
+│                        React + Vite + TailwindCSS                       │
+│                           (Port: 5173)                                  │
 └─────────────────────────────────────────────────────────────────────────┘
                                     │
                                     ▼
 ┌─────────────────────────────────────────────────────────────────────────┐
-│                              BACKEND                                      │
-│                    Spring Boot 4 + Spring Security                       │
-│                      JWT + OAuth2 (Port: 8080)                           │
-│                                                                           │
-│  ┌─────────────┐  ┌──────────────┐  ┌────────────┐  ┌──────────────┐   │
-│  │ Auth        │  │ User         │  │ Profile    │  │ Dashboard    │   │
-│  │ Controller  │  │ Controller   │  │ Controller │  │ Controller   │   │
-│  └─────────────┘  └──────────────┘  └────────────┘  └──────────────┘   │
+│                              BACKEND                                    │
+│                    Spring Boot 4 + Spring Security                      │
+│                      JWT + OAuth2 (Port: 8080)                          │
+│                                                                         │
+│  ┌─────────────┐  ┌──────────────┐  ┌────────────┐  ┌──────────────┐    │
+│  │ Auth        │  │ User         │  │ Profile    │  │ Dashboard    │    │
+│  │ Controller  │  │ Controller   │  │ Controller │  │ Controller   │    │
+│  └─────────────┘  └──────────────┘  └────────────┘  └──────────────┘    │
 └─────────────────────────────────────────────────────────────────────────┘
                                     │
                     ┌───────────────┼───────────────┐
@@ -483,12 +483,6 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 👨‍💻 Authors
 
 - **Vraj Priyadarshi** - [GitHub](https://github.com/Vraj-Priyadarshi)
@@ -498,7 +492,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - OpenAI for GPT integration
 - Spring Boot team for the excellent framework
@@ -514,4 +508,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <p align="center">
   <a href="#-career-saarthi">⬆️ Back to Top</a>
 </p>
+
 
