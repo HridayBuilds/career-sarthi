@@ -25,8 +25,8 @@
 
 - [Overview](#-overview)
 - [Features](#-features)
-- [Architecture](#-architecture)
-- [Tech Stack](#-tech-stack)
+- [Architecture](#architecture)
+- [Tech Stack](#tech-stack)
 - [Project Structure](#-project-structure)
 - [Getting Started](#-getting-started)
   - [Prerequisites](#prerequisites)
@@ -35,7 +35,7 @@
   - [3. ML Services Setup](#3-ml-services-setup)
   - [4. Frontend Setup](#4-frontend-setup)
 - [API Endpoints](#-api-endpoints)
-- [Screenshots](#-screenshots)
+- [Screenshots](#screenshots)
 - [Contributing](#-contributing)
 - [License](#-license)
 
@@ -87,7 +87,7 @@
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
@@ -129,7 +129,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - **React 19.2** - UI framework
@@ -226,7 +226,7 @@ Ensure you have the following installed:
 
 ---
 
-### 1. Generate ML Models (⚠️ IMPORTANT)
+### 1. Generate ML Models (IMPORTANT)
 
 The ML models (`.pkl` files) are **not included** in this repository due to size constraints. You must generate them first!
 
@@ -447,7 +447,7 @@ For Linux/Mac users, use the convenience scripts:
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
 <details>
 <summary>Click to expand screenshots</summary>
